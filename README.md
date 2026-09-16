@@ -22,13 +22,13 @@ Este repositorio contiene la solución a los 5 ejercicios programados en **Java*
 
 ## 🛠️ Ejercicios Desarrollados
 
-| # | Ejercicio | Tipo | Descripción General |
-|---|---|---|---|
-| 1 | Ejercicio Resuelto N.º 4 | Algorítmico | Cálculo de edades familiares en cadena (Juan, Alberto, Ana y Mamá). |
-| 2 | Ejercicio Resuelto N.º 5 | Prueba de escritorio | Seguimiento y ejecución de instrucciones matemáticas y asignaciones. |
-| 3 | Ejercicio Propuesto N.º 12 | POO | Cálculo de salario bruto, retención en la fuente y salario neto de un empleado. |
-| 4 | Ejercicio Propuesto N.º 14 | POO | Cálculo matemático del cuadrado y cubo de un grupo de números ingresados. |
-| 5 | Ejercicio Propuesto N.º 17 | POO | Cálculo geométrico del área de un círculo y la longitud de su circunferencia. |
+| # | Ejercicio | Descripción General |
+|---|---|---|
+| 1 | Ejercicio Resuelto N.º 4 | Cálculo de edades familiares en cadena (Juan, Alberto, Ana y Mamá). |
+| 2 | Ejercicio Resuelto N.º 5 | Seguimiento y ejecución de instrucciones matemáticas y asignaciones. |
+| 3 | Ejercicio Propuesto N.º 12 | Cálculo de salario bruto, retención en la fuente y salario neto de un empleado. |
+| 4 | Ejercicio Propuesto N.º 14 | Cálculo matemático del cuadrado y cubo de un grupo de números ingresados. |
+| 5 | Ejercicio Propuesto N.º 17 | Cálculo geométrico del área de un círculo y la longitud de su circunferencia. |
 
 ---
 
