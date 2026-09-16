@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg/960px-Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="Escudo UNAL" width="180">
+</p>
+
 # Programación Orientada a Objetos (2026-2S)
 
 ## 🎓 Datos de la Entrega
