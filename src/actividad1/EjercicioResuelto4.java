@@ -1,3 +1,5 @@
+package actividad1;
+
 public class EjercicioResuelto4 {
     public static void main(String args[]) {
         double ageJuan, ageAlberto, ageAna, ageMom;

@@ -1,3 +1,5 @@
+package actividad1;
+
 public class Age {
     public static double calculateAgeAlberto(double ageJuan) {
         return (2.0 / 3.0) * ageJuan;
