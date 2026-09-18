@@ -40,14 +40,3 @@ Este repositorio contiene la solución a los 5 ejercicios programados en **Java*
 * **Lenguaje:** Java JDK 17 o superior.
 * **IDE Utilizado:** Apache NetBeans (Entorno de archivos plano).
 * **Herramienta UML:** StarUML.
-
-### Ejecución por Consola
-Dado que los archivos están guardados directamente en la raíz de la carpeta `src` sin declaración de paquetes complejos, se compilan y ejecutan desde la raíz del repositorio con los siguientes comandos:
-
-```bash
-# 1. Compilar el archivo deseado (Ejemplo con el Ejercicio 4)
-javac src/EjercicioResuelto4.java
-
-# 2. Ejecutar la clase compilada apuntando al directorio origen
-java -cp src EjercicioResuelto4
-```
