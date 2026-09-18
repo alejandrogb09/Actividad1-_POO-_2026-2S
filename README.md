@@ -18,7 +18,7 @@ Este repositorio contiene la solución a los 5 ejercicios programados en **Java*
 ---
 
 ##  Estructura del Repositorio
-* **`src/`**: Contiene las clases de Java independientes de la solución en la raíz del directorio.
+* **`src/actividad1`**: Contiene las clases de Java independientes de la solución en la raíz del directorio.
 * **`docs/uml/`**: Contiene los diagramas de clases UML exportados en formato de imagen (`.png`).
 * **`docs/pdf/`**: Documento PDF consolidado con los enunciados y la justificación teórica.
 
