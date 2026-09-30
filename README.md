@@ -7,7 +7,7 @@
 ##  Datos de la Entrega
 * **Universidad:** Universidad Nacional de Colombia
 * **Actividad:** Actividad 1 - Desarrollo de Ejercicios OO
-* **Estudiante:** Alejandro Gómez
+* **Estudiante:** José Alejandro Gómez Berrío
 * **Docente:** Walter Hugo Arboleda Mazo
 
 ---
